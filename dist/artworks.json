@@ -63,13 +63,13 @@
     "full": "assets/art/formula-board-full.webp"
   },
   {
-    "id": "love-knowledge",
-    "title": "Love, Knowledge & Female Sexual Desire",
-    "category": "graphic",
-    "width": 12895,
-    "height": 6455,
-    "thumb": "assets/art/love-knowledge-thumb.webp",
-    "full": "assets/art/love-knowledge-full.webp"
+    "id": "aigc-wireframe",
+    "title": "AIGC · 线框字形",
+    "category": "type",
+    "width": 9105,
+    "height": 9105,
+    "thumb": "assets/art/aigc-wireframe-thumb.webp",
+    "full": "assets/art/aigc-wireframe-full.webp"
   },
   {
     "id": "glowing-river",
@@ -81,13 +81,13 @@
     "full": "assets/art/glowing-river-full.webp"
   },
   {
-    "id": "aigc-wireframe",
-    "title": "AIGC · 线框字形",
-    "category": "type",
-    "width": 9105,
-    "height": 9105,
-    "thumb": "assets/art/aigc-wireframe-thumb.webp",
-    "full": "assets/art/aigc-wireframe-full.webp"
+    "id": "love-knowledge",
+    "title": "Love, Knowledge & Female Sexual Desire",
+    "category": "graphic",
+    "width": 12895,
+    "height": 6455,
+    "thumb": "assets/art/love-knowledge-thumb.webp",
+    "full": "assets/art/love-knowledge-full.webp"
   },
   {
     "id": "akkoyyy",
