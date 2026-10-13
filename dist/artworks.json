@@ -1,0 +1,461 @@
+[
+  {
+    "id": "shirayuki",
+    "title": "白雪",
+    "category": "poster",
+    "width": 1920,
+    "height": 1080,
+    "thumb": "assets/art/shirayuki-thumb.webp",
+    "full": "assets/art/shirayuki-full.webp"
+  },
+  {
+    "id": "pink-blood",
+    "title": "Pink Blood",
+    "category": "type",
+    "width": 1800,
+    "height": 1800,
+    "thumb": "assets/art/pink-blood-thumb.webp",
+    "full": "assets/art/pink-blood-full.webp"
+  },
+  {
+    "id": "cyberpunk",
+    "title": "赛博朋克 · 边缘行者",
+    "category": "poster",
+    "width": 1600,
+    "height": 1200,
+    "thumb": "assets/art/cyberpunk-thumb.webp",
+    "full": "assets/art/cyberpunk-full.webp"
+  },
+  {
+    "id": "gsp",
+    "title": "GSP Gaming · 标志",
+    "category": "type",
+    "width": 1480,
+    "height": 1480,
+    "thumb": "assets/art/gsp-thumb.webp",
+    "full": "assets/art/gsp-full.webp"
+  },
+  {
+    "id": "aigc-club",
+    "title": "AIGC Club · 字体标志",
+    "category": "type",
+    "width": 16244,
+    "height": 9181,
+    "thumb": "assets/art/aigc-club-thumb.webp",
+    "full": "assets/art/aigc-club-full.webp"
+  },
+  {
+    "id": "illustrious-cd",
+    "title": "光辉 · CD 封面展示",
+    "category": "packaging",
+    "width": 1920,
+    "height": 1080,
+    "thumb": "assets/art/illustrious-cd-thumb.webp",
+    "full": "assets/art/illustrious-cd-full.webp"
+  },
+  {
+    "id": "formula-board",
+    "title": "赛车主题 · 图形构成",
+    "category": "graphic",
+    "width": 3516,
+    "height": 2500,
+    "thumb": "assets/art/formula-board-thumb.webp",
+    "full": "assets/art/formula-board-full.webp"
+  },
+  {
+    "id": "love-knowledge",
+    "title": "Love, Knowledge & Female Sexual Desire",
+    "category": "graphic",
+    "width": 12895,
+    "height": 6455,
+    "thumb": "assets/art/love-knowledge-thumb.webp",
+    "full": "assets/art/love-knowledge-full.webp"
+  },
+  {
+    "id": "glowing-river",
+    "title": "发光河流",
+    "category": "spatial",
+    "width": 1920,
+    "height": 1080,
+    "thumb": "assets/art/glowing-river-thumb.webp",
+    "full": "assets/art/glowing-river-full.webp"
+  },
+  {
+    "id": "aigc-wireframe",
+    "title": "AIGC · 线框字形",
+    "category": "type",
+    "width": 9105,
+    "height": 9105,
+    "thumb": "assets/art/aigc-wireframe-thumb.webp",
+    "full": "assets/art/aigc-wireframe-full.webp"
+  },
+  {
+    "id": "akkoyyy",
+    "title": "Akkoyyy · 字形与网格",
+    "category": "type",
+    "width": 1080,
+    "height": 1620,
+    "thumb": "assets/art/akkoyyy-thumb.webp",
+    "full": "assets/art/akkoyyy-full.webp"
+  },
+  {
+    "id": "chainsaw",
+    "title": "电锯人",
+    "category": "type",
+    "width": 14856,
+    "height": 6156,
+    "thumb": "assets/art/chainsaw-thumb.webp",
+    "full": "assets/art/chainsaw-full.webp"
+  },
+  {
+    "id": "drift",
+    "title": "漂流",
+    "category": "type",
+    "width": 1800,
+    "height": 1800,
+    "thumb": "assets/art/drift-thumb.webp",
+    "full": "assets/art/drift-full.webp"
+  },
+  {
+    "id": "laniakea",
+    "title": "拉尼亚凯亚",
+    "category": "type",
+    "width": 1800,
+    "height": 1800,
+    "thumb": "assets/art/laniakea-thumb.webp",
+    "full": "assets/art/laniakea-full.webp"
+  },
+  {
+    "id": "love-death",
+    "title": "爱、死亡与机器人",
+    "category": "type",
+    "width": 1800,
+    "height": 1800,
+    "thumb": "assets/art/love-death-thumb.webp",
+    "full": "assets/art/love-death-full.webp"
+  },
+  {
+    "id": "moon",
+    "title": "直到月亮倾覆",
+    "category": "type",
+    "width": 1800,
+    "height": 1800,
+    "thumb": "assets/art/moon-thumb.webp",
+    "full": "assets/art/moon-full.webp"
+  },
+  {
+    "id": "sunday",
+    "title": "Sunday · 字体与线条",
+    "category": "type",
+    "width": 1920,
+    "height": 1080,
+    "thumb": "assets/art/sunday-thumb.webp",
+    "full": "assets/art/sunday-full.webp"
+  },
+  {
+    "id": "tanking",
+    "title": "摆烂",
+    "category": "type",
+    "width": 1800,
+    "height": 1800,
+    "thumb": "assets/art/tanking-thumb.webp",
+    "full": "assets/art/tanking-full.webp"
+  },
+  {
+    "id": "vtb-logo",
+    "title": "YStargazer · 标志",
+    "category": "type",
+    "width": 1920,
+    "height": 1920,
+    "thumb": "assets/art/vtb-logo-thumb.webp",
+    "full": "assets/art/vtb-logo-full.webp"
+  },
+  {
+    "id": "wenjing",
+    "title": "文静 · 明前奶绿",
+    "category": "type",
+    "width": 1800,
+    "height": 1800,
+    "thumb": "assets/art/wenjing-thumb.webp",
+    "full": "assets/art/wenjing-full.webp"
+  },
+  {
+    "id": "witch",
+    "title": "小魔女学园",
+    "category": "type",
+    "width": 14914,
+    "height": 3375,
+    "thumb": "assets/art/witch-thumb.webp",
+    "full": "assets/art/witch-full.webp"
+  },
+  {
+    "id": "cd",
+    "title": "CD",
+    "category": "graphic",
+    "width": 11497,
+    "height": 10049,
+    "thumb": "assets/art/cd-thumb.webp",
+    "full": "assets/art/cd-full.webp"
+  },
+  {
+    "id": "cello-receipt",
+    "title": "大提琴 · 票据排版",
+    "category": "graphic",
+    "width": 1000,
+    "height": 3000,
+    "thumb": "assets/art/cello-receipt-thumb.webp",
+    "full": "assets/art/cello-receipt-full.webp"
+  },
+  {
+    "id": "chess",
+    "title": "棋盘",
+    "category": "graphic",
+    "width": 13129,
+    "height": 11270,
+    "thumb": "assets/art/chess-thumb.webp",
+    "full": "assets/art/chess-full.webp"
+  },
+  {
+    "id": "cross",
+    "title": "十字架",
+    "category": "graphic",
+    "width": 5361,
+    "height": 8349,
+    "thumb": "assets/art/cross-thumb.webp",
+    "full": "assets/art/cross-full.webp"
+  },
+  {
+    "id": "ether-b0",
+    "title": "以太 · B 面 0",
+    "category": "graphic",
+    "width": 1527,
+    "height": 1080,
+    "thumb": "assets/art/ether-b0-thumb.webp",
+    "full": "assets/art/ether-b0-full.webp"
+  },
+  {
+    "id": "ether-b1",
+    "title": "以太 · B 面 1",
+    "category": "graphic",
+    "width": 3840,
+    "height": 2160,
+    "thumb": "assets/art/ether-b1-thumb.webp",
+    "full": "assets/art/ether-b1-full.webp"
+  },
+  {
+    "id": "ether-b2",
+    "title": "以太 · B 面 2",
+    "category": "graphic",
+    "width": 3840,
+    "height": 2160,
+    "thumb": "assets/art/ether-b2-thumb.webp",
+    "full": "assets/art/ether-b2-full.webp"
+  },
+  {
+    "id": "pride",
+    "title": "PRIDE · 画面练习",
+    "category": "graphic",
+    "width": 1920,
+    "height": 1080,
+    "thumb": "assets/art/pride-thumb.webp",
+    "full": "assets/art/pride-full.webp"
+  },
+  {
+    "id": "puzzle",
+    "title": "拼图",
+    "category": "graphic",
+    "width": 12018,
+    "height": 10767,
+    "thumb": "assets/art/puzzle-thumb.webp",
+    "full": "assets/art/puzzle-full.webp"
+  },
+  {
+    "id": "untitled-ring",
+    "title": "Untitled · 环形视觉",
+    "category": "graphic",
+    "width": 1080,
+    "height": 1080,
+    "thumb": "assets/art/untitled-ring-thumb.webp",
+    "full": "assets/art/untitled-ring-full.webp"
+  },
+  {
+    "id": "abruzzi",
+    "title": "阿布鲁奇公爵",
+    "category": "poster",
+    "width": 1920,
+    "height": 1080,
+    "thumb": "assets/art/abruzzi-thumb.webp",
+    "full": "assets/art/abruzzi-full.webp"
+  },
+  {
+    "id": "azi",
+    "title": "阿梓 · 横幅合成",
+    "category": "poster",
+    "width": 2048,
+    "height": 960,
+    "thumb": "assets/art/azi-thumb.webp",
+    "full": "assets/art/azi-full.webp"
+  },
+  {
+    "id": "azi-banner",
+    "title": "阿梓 · 长横幅",
+    "category": "poster",
+    "width": 2048,
+    "height": 320,
+    "thumb": "assets/art/azi-banner-thumb.webp",
+    "full": "assets/art/azi-banner-full.webp"
+  },
+  {
+    "id": "ferris-wheel",
+    "title": "摩天轮 · 版式海报",
+    "category": "poster",
+    "width": 1080,
+    "height": 1620,
+    "thumb": "assets/art/ferris-wheel-thumb.webp",
+    "full": "assets/art/ferris-wheel-full.webp"
+  },
+  {
+    "id": "hipper",
+    "title": "希佩尔海军上将",
+    "category": "poster",
+    "width": 1920,
+    "height": 1080,
+    "thumb": "assets/art/hipper-thumb.webp",
+    "full": "assets/art/hipper-full.webp"
+  },
+  {
+    "id": "illustrious",
+    "title": "光辉",
+    "category": "poster",
+    "width": 1920,
+    "height": 1080,
+    "thumb": "assets/art/illustrious-thumb.webp",
+    "full": "assets/art/illustrious-full.webp"
+  },
+  {
+    "id": "madoka",
+    "title": "円香 · 主题海报",
+    "category": "poster",
+    "width": 3800,
+    "height": 5700,
+    "thumb": "assets/art/madoka-thumb.webp",
+    "full": "assets/art/madoka-full.webp"
+  },
+  {
+    "id": "match-cover",
+    "title": "紫毛杯 #3 · 赛事宣传片封面",
+    "category": "poster",
+    "width": 1920,
+    "height": 1200,
+    "thumb": "assets/art/match-cover-thumb.webp",
+    "full": "assets/art/match-cover-full.webp"
+  },
+  {
+    "id": "may-type",
+    "title": "五月 · 字体排版",
+    "category": "poster",
+    "width": 4096,
+    "height": 3084,
+    "thumb": "assets/art/may-type-thumb.webp",
+    "full": "assets/art/may-type-full.webp"
+  },
+  {
+    "id": "mint-poster",
+    "title": "角色主题海报 · 薄荷绿",
+    "category": "poster",
+    "width": 1080,
+    "height": 1620,
+    "thumb": "assets/art/mint-poster-thumb.webp",
+    "full": "assets/art/mint-poster-full.webp"
+  },
+  {
+    "id": "nikke",
+    "title": "NIKKE · 角色主题海报",
+    "category": "poster",
+    "width": 3800,
+    "height": 5700,
+    "thumb": "assets/art/nikke-thumb.webp",
+    "full": "assets/art/nikke-full.webp"
+  },
+  {
+    "id": "powerline",
+    "title": "高压线 · 静帧",
+    "category": "poster",
+    "width": 1920,
+    "height": 930,
+    "thumb": "assets/art/powerline-thumb.webp",
+    "full": "assets/art/powerline-full.webp"
+  },
+  {
+    "id": "utage",
+    "title": "宴 · 主题海报",
+    "category": "poster",
+    "width": 1920,
+    "height": 1080,
+    "thumb": "assets/art/utage-thumb.webp",
+    "full": "assets/art/utage-full.webp"
+  },
+  {
+    "id": "vinyl",
+    "title": "VINYL · 版式练习",
+    "category": "poster",
+    "width": 1080,
+    "height": 1620,
+    "thumb": "assets/art/vinyl-thumb.webp",
+    "full": "assets/art/vinyl-full.webp"
+  },
+  {
+    "id": "album-cover",
+    "title": "专辑封面 · 几何构成",
+    "category": "packaging",
+    "width": 1080,
+    "height": 1080,
+    "thumb": "assets/art/album-cover-thumb.webp",
+    "full": "assets/art/album-cover-full.webp"
+  },
+  {
+    "id": "cd-display",
+    "title": "漂流 · CD 展示",
+    "category": "packaging",
+    "width": 1920,
+    "height": 1080,
+    "thumb": "assets/art/cd-display-thumb.webp",
+    "full": "assets/art/cd-display-full.webp"
+  },
+  {
+    "id": "peace-shooting",
+    "title": "Peace Shooting",
+    "category": "spatial",
+    "width": 728,
+    "height": 1030,
+    "thumb": "assets/art/peace-shooting-thumb.webp",
+    "full": "assets/art/peace-shooting-full.webp"
+  },
+  {
+    "id": "practice-61",
+    "title": "蓝金空间 · 画面练习",
+    "category": "spatial",
+    "width": 736,
+    "height": 954,
+    "thumb": "assets/art/practice-61-thumb.webp",
+    "full": "assets/art/practice-61-full.webp"
+  },
+  {
+    "id": "practice-68",
+    "title": "空间网格 · 画面练习",
+    "category": "spatial",
+    "width": 14455,
+    "height": 7476,
+    "thumb": "assets/art/practice-68-thumb.webp",
+    "full": "assets/art/practice-68-full.webp"
+  },
+  {
+    "id": "rose",
+    "title": "Rose · 展示画面",
+    "category": "spatial",
+    "width": 1920,
+    "height": 1080,
+    "thumb": "assets/art/rose-thumb.webp",
+    "full": "assets/art/rose-full.webp"
+  }
+]
